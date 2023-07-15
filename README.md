@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Savar Srivastava</h1>
 <h3 align="center">A passionate software developer!</h3>
 
-- 🔭 I’m currently working on [Chart Generator](https://github.com/savarsri/chart-generator)
+- 🔭 I’m currently working on [CollabSphere](https://github.com/savarsri/collabsphere)
 
-- 🌱 I’m currently learning **Svelte, Node.js**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **savarsri@gmail.com**
 
